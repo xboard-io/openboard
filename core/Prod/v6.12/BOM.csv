@@ -1,0 +1,59 @@
+ref,value5,footprint,lib,part,description,tstamp
+J4,NC,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,Connector_Generic,Conn_01x02,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",5D9D6B43
+R16,1K,Resistor_SMD:R_0603_1608Metric,Device,R,Resistor,5DC77BF3
+R15,1K,Resistor_SMD:R_0603_1608Metric,Device,R,Resistor,5DC78572
+C33,100nF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5DCE452F
+C34,100nF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5DCE4B64
+C23,100nF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5DD01290
+C25,100nF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5DD0167F
+C27,100nF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5DD01903
+C30,100nF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5DD01B83
+C22,100nF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5DD7D900
+C24,100nF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5DD7DDB2
+C26,100nF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5DD7E1E2
+C28,100nF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5DD7E587
+C29,100nF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5DD7E801
+C31,10uF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5DD7EAB7
+C32,10uF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5DD7EDF2
+D1,SS14,Diode_SMD:D_SOD-123,Device,D,Diode,5E437B1D
+L1,22uH,Library:Inductor-4x4,Device,L,Inductor,5E51505E
+R6,100K,Resistor_SMD:R_0603_1608Metric,Device,R,Resistor,5EA64C4B
+R13,10K,Resistor_SMD:R_0603_1608Metric,Device,R,Resistor,5F190952
+R9,47K,Resistor_SMD:R_0603_1608Metric,Device,R,Resistor,5F31A0B9
+R10,47K,Resistor_SMD:R_0603_1608Metric,Device,R,Resistor,5F31F0F6
+R11,47K,Resistor_SMD:R_0603_1608Metric,Device,R,Resistor,5F31F517
+R8,47K,Resistor_SMD:R_0603_1608Metric,Device,R,Resistor,5F31F882
+R3,1K,Resistor_SMD:R_0603_1608Metric,Device,R,Resistor,5F484CDE
+R4,1K,Resistor_SMD:R_0603_1608Metric,Device,R,Resistor,5F4854BB
+R12,47K,Resistor_SMD:R_0603_1608Metric,Device,R,Resistor,5F4B2EF8
+R5,NC,Resistor_SMD:R_0603_1608Metric,Device,R,Resistor,5F4E7401
+C9,1uF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5F7E3ECB
+C13,18pF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5F949B92
+C20,18pF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5F94A79F
+R1,47K,Resistor_SMD:R_0603_1608Metric,Device,R,Resistor,5FA6F448
+C1,100nF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5FADA2E1
+C2,1uF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5FB3F8A1
+C3,100nF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5FB3FC67
+C8,22uF,Capacitor_SMD:C_0805_2012Metric,Device,C,Unpolarized capacitor,5FC08954
+C10,10uF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5FC08C4F
+C16,10uF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5FC0963B
+C19,100nF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5FC0BFF9
+C4,10uF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,600919F6
+R14,120R,Resistor_SMD:R_0603_1608Metric,Device,R,Resistor,5F020BA3
+J1,NC,Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical,Connector_Generic,Conn_01x15,"Generic connector, single row, 01x15, script generated (kicad-library-utils/schlib/autogen/connector/)",5F145495
+J3,NC,Connector_PinHeader_2.54mm:PinHeader_1x19_P2.54mm_Vertical,Connector_Generic,Conn_01x19,"Generic connector, single row, 01x19, script generated (kicad-library-utils/schlib/autogen/connector/)",5F19872C
+J2,NC,Connector_PinHeader_2.54mm:PinHeader_1x19_P2.54mm_Vertical,Connector_Generic,Conn_01x19,"Generic connector, single row, 01x19, script generated (kicad-library-utils/schlib/autogen/connector/)",5F19521D
+C15,10uF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5F23CBE6
+C17,10uF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5F23EC60
+C7,100nF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5EE59F27
+C6,100nF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5EE5A51C
+C11,22uF,Capacitor_SMD:C_0805_2012Metric,Device,C,Unpolarized capacitor,5F02D973
+C14,100nF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5F02FB34
+C35,22uF,Capacitor_SMD:C_0805_2012Metric,Device,C,Unpolarized capacitor,5F249B98
+C36,100nF,Capacitor_SMD:C_0603_1608Metric,Device,C,Unpolarized capacitor,5F249B9E
+J5,USB_B_Micro,Library:USB_Micro-Molex,Connector,USB_B_Micro,USB Micro Type B connector,5F93FD89
+U1,MCIMX233CAG4C,Library:LQFP-128_14x14_Pitch0.4mm,Library,MCIMX233CAG4C,,5F515ABD
+TF1,TF_Card,Library:XKXFS-N02-XXT,Library,TF_Card,,5F51A132
+U2,MT46V32M16,Library:TSSOP-66_400mil_P0.65mm,Library,MT46V32M16,,5F51D448
+U3,SR05,Package_TO_SOT_SMD:SOT-143,Library,SR05,,5F51FD97
+X1,24MHz,Library:Crystal_SMD_3225-4P_3.2x2.5mm,Library,XTAL-4,,5F52187B
